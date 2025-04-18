@@ -2,11 +2,11 @@ import { Experience } from '@/types';
 
 export const experiences: Experience[] = [
   {
-    jobTitle: 'Frontend Developer',
+    jobTitle: 'Full Stack Developer',
     company: 'Creasophere Tech PVT LTD',
     startDate: 'Jan 2024',
     endDate: 'Present',
-    description: 'Experienced Frontend Developer proficient in React.js, HTML, CSS, JavaScript, Node.js, Next.js, Bootstrap, Canvas, and Figma, adept at creating and maintaining websites and components with a keen eye for design and functionality. ',
+    description: 'Experienced Full Stack Developer proficient in React.js, HTML, CSS, JavaScript, Node.js, Next.js, Bootstrap, Canvas, and Figma, adept at creating and maintaining websites and components with a keen eye for design and functionality. ',
   },
 
   {
