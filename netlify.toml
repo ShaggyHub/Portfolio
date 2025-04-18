@@ -1,0 +1,7 @@
+[build]
+  command   = "npm run build"
+  publish   = ".next"                # your static out
+  functions = ".netlify/functions"   # where lambdas go
+
+[[plugins]]
+  package = "@netlify/plugin-nextjs"

@@ -61,6 +61,11 @@
   resolved "https://registry.npmjs.org/@humanwhocodes/object-schema/-/object-schema-1.2.1.tgz"
   integrity sha512-ZnQMnLV4e7hDlUvw8H+U8ASL02SS2Gn6+9Ac3wGGLIe7+je2AeAOxPY+izIPJDfFDb7eDjev0Us8MO1iFRN8hA==
 
+"@netlify/plugin-nextjs@^5.10.7":
+  version "5.10.7"
+  resolved "https://registry.npmjs.org/@netlify/plugin-nextjs/-/plugin-nextjs-5.10.7.tgz"
+  integrity sha512-UZ0D6MKMV+7toNTeiki96YDcxwR/2lddW9zJQh4n62o564S/D2r5w46UTE0DcCY7Jtw7WGVOy1VtB3ws2gKW0A==
+
 "@next/env@12.3.1":
   version "12.3.1"
   resolved "https://registry.npmjs.org/@next/env/-/env-12.3.1.tgz"
@@ -103,6 +108,11 @@
   version "1.2.0"
   resolved "https://registry.npmjs.org/@rushstack/eslint-patch/-/eslint-patch-1.2.0.tgz"
   integrity sha512-sXo/qW2/pAcmT43VoRKOJbDOfV3cYpq3szSVfIThQXNt+E4DfKj361vaAt3c88U5tPUxzEswam7GW48PJqtKAg==
+
+"@stackbit/types@^2.1.14":
+  version "2.1.14"
+  resolved "https://registry.npmjs.org/@stackbit/types/-/types-2.1.14.tgz"
+  integrity sha512-qAsAiuOfQdetCm0xi79lxom5MRLuRvhQkFVPyw6VVXmrAoJdC4fmS5qzLVY7S8yuHg9xTMPgeDveGUyLQRm61w==
 
 "@swc/helpers@0.4.11":
   version "0.4.11"
